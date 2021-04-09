@@ -22,3 +22,65 @@ https://www.youtube.com/watch?v=Uwh42EXbVG8
 MObile Automation with tosca
 https://www.youtube.com/watch?v=0WtUvT2y-Fg
 https://documentation.tricentis.com/en/1010/index.htm#tbox/tbox_mobileweb.htm%3FTocPath%3DTBox%7CMobile%2520Engine%25203.0%7C_____0
+JIRA to tosca
+tosca to jira
+
+ALM-TOsca-ALM
+
+jira-tosca-jira
+
+EPIC
+DEFECT
+Stories
+
+JIRA it should local server admin access for JIRA\
+Tosca Connect or Tasktop one user to access tasktop(should not be read only)
+tosca Server- RESTAPI 
+Tosca Commander should be installed on tosca server machine one user to access tosca server
+MUlti user workspace, admin credentials
+
+Repository-Createing the connection to JIRA as well as Tosca
+MOdels-
+Collections-
+INtegration-RUN/STOP
+
+1 set of field  JIRA 1 set field  from TOSCA
+
+TYpe- epIC
+EPIC ID
+Description
+Summary
+Sprint
+
+
+Connection-
+
+Tosca:
+ReqID
+Desc
+SUM
+Create the customized field on project reqquirment level in toscs
+
+
+JIRA-TOSCa For EPIC
+
+
+AS1
+
+AS2
+
+TDS1
+
+TDS 2
+
+AE1 AE2- Tosca Development
+
+TA1 -intergation part
+
+TQL
+
+SAP Automations Specialist
+
+API Automation specialist
+
+
